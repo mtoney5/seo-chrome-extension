@@ -8,4 +8,4 @@ We do not collect any browsing history, personal information, or user activity. 
 
 If you have any concerns or questions, feel free to contact the developer through the Chrome Web Store listing.
 
-_Last updated: [Today’s Date]_
+_Last updated: 4/13/2025
